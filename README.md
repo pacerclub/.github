@@ -1,2 +1,1 @@
-# .github
-Welcome to Pacer, where we hack &amp; create.
+# Welcome to Pacer, where we hack &amp; create.
