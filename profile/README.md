@@ -2,7 +2,7 @@
 
 ![Pacer Logo Banner](https://raw.githubusercontent.com/pacerclub/.github/main/assets/logo-banner.png)
 
-## Official Website (Coming Soon): [pacer.org.cn](https://pacer.org.cn)
+## Official Website: [pacer.org.cn](https://pacer.org.cn)
 
 Welcome to Pacer Club, where members support each other every step of the way.
 
